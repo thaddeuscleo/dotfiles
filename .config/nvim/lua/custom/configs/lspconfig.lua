@@ -12,6 +12,7 @@ local servers = {
 	"gopls",
 	"svelte",
 	"tailwindcss",
+  "ruff_lsp",
 }
 
 for _, lsp in ipairs(servers) do

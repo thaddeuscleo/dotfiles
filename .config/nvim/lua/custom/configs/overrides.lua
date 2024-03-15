@@ -49,6 +49,9 @@ M.mason = {
     "gofumpt",
     "goimports-reviser",
     "golines",
+
+    -- Python stuff
+    "ruff-lsp",
   },
 }
 
